@@ -10,7 +10,7 @@
 - **Resources**:  
   - **Watch**: CMU 15-445/645 Lecture 1 (Intro to Databases).  
   - **Read**: Chapters 1-2 of the "Concise Guide to Databases".  
-  - **Resourses for ERDs** [Visual Paradigm ERD Tutorial](https://www.visual-paradigm.com/support/documents/vpuserguide/3563/3564/85375_drawingentit.html) and [ERD Basics Video](https://www.youtube.com/watch?v=QpdhBUYk7Kk&ab_channel=LucidSoftware)
+  - **Resourses for ERDs** [Visual Paradigm ERD Tutorial](https://www.visual-paradigm.com/support/documents/vpuserguide/3563/3564/85375_drawingentit.html), [ERD Basics Video](https://www.youtube.com/watch?v=QpdhBUYk7Kk&ab_channel=LucidSoftware), and [last one] (https://www.youtube.com/watch?v=-CuY5ADwn24&ab_channel=LucidSoftware)
   - **Practice**: Draw basic ERDs using tools like [Lucidchart](https://www.lucidchart.com) or [draw.io](https://app.diagrams.net/).  
 - **Focus**:  
   - **At least**: Understand the concept of ERDs and how they model database structures.  
